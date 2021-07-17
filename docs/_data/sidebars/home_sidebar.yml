@@ -11,7 +11,13 @@ entries:
       url: /
     - output: web,pdf
       title: module name here
-      url: core.html
+      url: data.html
+    - output: web,pdf
+      title: Aufbereitung der BAG-Daten
+      url: aufbereitung_karten_bag_daten.html
+    - output: web,pdf
+      title: Title
+      url: srf_reproduction.html
     output: web
     title: covid19ana
   output: web

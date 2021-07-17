@@ -1,6 +1,8 @@
 {
   "covid19ana": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module name here": "data.html",
+    "Aufbereitung der BAG-Daten": "aufbereitung_karten_bag_daten.html",
+    "Title": "srf_reproduction.html"
   }
 }
